@@ -1,5 +1,5 @@
-library("YRmisc")           # each session
-library("readxl")           # each session
+library("YRmisc")           
+library("readxl")         
 
 # 1. import spInfox excel file
 spInfox <- read_excel("~/Desktop/BUA 633/Class 3 June 1/spInfox.xlsx")
